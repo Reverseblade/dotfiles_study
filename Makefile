@@ -4,5 +4,5 @@ link:
 	# ls -la ~/ | grep .tmux.conf
 
 clean:
-	rm ~/.vimrc
-	# rm ~/.tmux.conf
+	rm -f ~/.vimrc
+	# rm -f ~/.tmux.conf
