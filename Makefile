@@ -5,4 +5,4 @@ link:
 
 clean:
 	rm ~/.vimrc
-	rm ~/.tmux.conf
+	# rm ~/.tmux.conf
